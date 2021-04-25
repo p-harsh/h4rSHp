@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harsh.
 - 👀 I’m interested in FrontEnd WebDev.
--    I know HTML,CSS,SASS,JS,React,W3CSS.
-- 🌱 I’m currently learning ReactJS, Bootstrap
+-    I know CSS, SASS, JS, JQuery, ReactJS, AJAX, Bootstrap.
+- 🌱 I’m currently learning ....
 - 💞️ I’m looking to collaborate on FrontEnd WebDev.
 - 📫 How to reach me - use my site https://h4rshp.github.io/Hey/
 
