@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh.
+- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m Harsh.
 - 👀 I’m interested in FrontEnd WebDev.
 -    I know CSS, SASS, JS, JQuery, ReactJS, Bootstrap, React-Native.
 - 🌱 I’m currently learning Redux.
