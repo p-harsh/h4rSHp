@@ -3,8 +3,8 @@
 -    I know CSS, SASS, JS, JQuery, ReactJS, Bootstrap, React-Native.
 - 🌱 I’m currently learning Redux.
 - 💞️ I’m looking to collaborate on FrontEnd WebDev.
-- 📫 How to reach me - use my [site](h4rsh.netlify.app).
--[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=h4rSHp&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/h4rSHp)
+- 📫 How to reach me - use my [h4rsh.netlify.app](h4rsh.netlify.app)<br/><br/>
+[![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=h4rSHp&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/h4rSHp)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h4rSHp&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/h4rSHp)
 <a href="https://github.com/h4rSHp/github-readme-activity-graph"><img alt="Harsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=h4rSHp&bg_color=7E3ACE01&color=5BCDEC&line=7E3ACE&point=FFFFFF&hide_border=true" /></a>
 <p align="center">
